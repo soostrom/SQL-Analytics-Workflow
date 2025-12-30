@@ -1,5 +1,5 @@
-# Sander-SQL-Fun
-As a portfolio, I'm using this file to guide your through the development process. 
+# SQL Analytics Workflow
+This repository documents a standardized BI workflow for translating business requirements into optimized analytical data product.
 
 First of all, typically there should be a work intake meeting where requirements are being discussed and validated. Once the business question is clarified and the correct KPI's are defined, the request will be prioritised and planned. Below I'm walking through the development process for this particular data product.
 
